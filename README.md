@@ -1,2 +1,2 @@
 # cpustatusrpi
-A .sh Script that Shows the stats of your CPU built for Raspberry Pi
+Script's that present the stats of your PC built for Raspberry Pi but available for use on most
